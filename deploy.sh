@@ -1,7 +1,7 @@
 # 自动部署脚本  
 
 # 构建
-npm run build
+npm run docs:build
 # 导航到构建输出目录
 cd docs/.vuepress/dist
 
